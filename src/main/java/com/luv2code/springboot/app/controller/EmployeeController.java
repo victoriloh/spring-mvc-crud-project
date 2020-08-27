@@ -1,7 +1,6 @@
 package com.luv2code.springboot.app.controller;
 
 import com.luv2code.springboot.app.entity.Employee;
-//import com.luv2code.springboot.thymeleafdemo.model.Employee;
 import com.luv2code.springboot.app.service.EmployeeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

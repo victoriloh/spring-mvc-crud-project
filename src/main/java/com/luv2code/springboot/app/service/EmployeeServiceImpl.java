@@ -1,7 +1,4 @@
-package com.luv2code.springboot.app.service;//package com.luv2code.springboot.crud.service;
-//
-//import com.luv2code.springboot.crud.dao.EmployeeDAO;
-
+package com.luv2code.springboot.app.service;
 
 import com.luv2code.springboot.app.dao.EmployeeRepository;
 import com.luv2code.springboot.app.entity.Employee;

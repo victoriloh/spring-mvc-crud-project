@@ -13,8 +13,6 @@ public class Employee {
     private int id;
 
     @NotEmpty(message = "First Name is mandatory")
- //   @NotEmpty(message = "LastName can not be empty!!")
-//    @Size(min=3, max=30)
     @Column(name = "first_name")
     private String firstName;
 
